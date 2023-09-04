@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Claudia Moreno</h1>
 <h3 align="center">A passionate design engineering student at Imperial College London</h3>
+<p align="center">I am currently undertaking a multi-disciplinary course (Meng Design Engineering) which has made me develop an interest in designing human-centred innovative products while making them visually pleasing for the consumer. My main areas of focus are product, automotive, user-centred design and developing next generation technology. I was brought up moving to five different countries (China, Malaysia, Peru, Spain, and the UK) which has given me a wide perspective of cultural differences and an open-minded way of thinking.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiamoreno2320&label=Profile%20views&color=0e75b6&style=flat" alt="claudiamoreno2320" /> </p>
 
-
+- I am currently looking for a **6-month internship from April to September 2024**
+  
 - All of my projects are available at [www.claudiamoreno.co.uk](www.claudiamoreno.co.uk)
 
 - How to reach me **cm2320@ic.ac.uk**
-
-- Fun fact **I have lived in 5 different countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
