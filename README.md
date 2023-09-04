@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Claudia Moreno</h1>
 <h3 align="center">A passionate design engineering student at Imperial College London</h3>
-<p align="center">I am currently undertaking a multi-disciplinary course (Meng Design Engineering) which has made me develop an interest in designing human-centred innovative products while making them visually pleasing for the consumer. My main areas of focus are product, automotive, user-centred design and developing next generation technology. I was brought up moving to five different countries (China, Malaysia, Peru, Spain, and the UK) which has given me a wide perspective of cultural differences and an open-minded way of thinking.</p>
+<p align="center">I am currently undertaking a multi-disciplinary course (MEng Design Engineering) which has made me develop an interest in designing human-centred innovative products while making them visually pleasing for the consumer. My main areas of focus are product, automotive, user-centred design and developing next generation technology. I was brought up moving to five different countries (China, Malaysia, Peru, Spain, and the UK) which has given me a wide perspective of cultural differences and an open-minded way of thinking.</p>
 
 <br>
 
