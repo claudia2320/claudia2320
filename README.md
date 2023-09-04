@@ -8,6 +8,8 @@
   
 - All of my projects are available at [www.claudiamoreno.co.uk](www.claudiamoreno.co.uk)
 
+- Find out more about my skills and previous eperiences at [https://drive.google.com/file/d/1h35uFwQtAtLOu09U86bvNreRKiIcTyu4/view]
+
 - How to reach me **cm2320@ic.ac.uk**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiamoreno2320&label=Profile%20views&color=0e75b6&style=flat" alt="claudiamoreno2320" /> </p>
 
